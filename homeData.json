@@ -1,63 +1,62 @@
 {
-  "landing": {
-    "images": [
-      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/home_imqges/hero1.jpeg",
-      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/home_imqges/hero2.jpeg ",
-    ],
-    "title": "Design Your Comfort Zone",
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti iure quasi odit tenetur unde officiis repudiandae quod deserunt quia eum? Lorem ipsum dolor sit amet consectetur",
-  },
-  "featuredProducts": [
-    {
-      "id": 1,
-      "title": "Entertainment Center",
-      "price": 599.99,
-      "image": "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Accent%20Chair.JPEG",
-      "amount": 3,
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic ...",
-    },
-    {
-      "id": 2,
-      "title": "High-Back Bench",
-      "price": 399.99,
-      "image": "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Sectional.JPEG",
-      "amount": 5,
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic ...",
-    },
-    {
-      "id": 3,
-      "title": "Modern Bookshelf",
-      "price": 319.99,
-      "image": "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Table.JPEG",
-      "amount": 4,
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic ...",
-    },
-  ],
-  "features": [
-    {
-      "icon": "SiAzuredataexplorer",
-      "name": "Mission",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi",
-    },
-    {
-      "icon": "AiOutlineAntDesign",
-      "name": "Vision",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi",
-    },
-
-    {
-      "icon": "MdHistoryEdu",
-      "name": "History",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi",
-    },
-  ],
-  "newsPaper": {
-    "title": "Join our newsletter and get 20% off",
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veniam repudiandae vel ab id, fuga praesentium nobis natus ipsam vero?",
-  },
-  "about": {
-    "image": "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/home_imqges/hero1.jpeg",
-    "title": "Our Story",
-    "text": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quaerat, modi doloremque necessitatibus eum dolor nesciunt delectus, voluptate blanditiis, obcaecati beatae ab aut ipsaconsequuntur tempora cumque. Ut quo enim vero odio minus nostrum eveniet, doloribus veritatis dolorem unde ipsum, voluptatibus totam. Explicabo, quas libero! Laborum incidunt minimaconsequatur ratione?",
-  }
+   "landing":{
+      "images":[
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/home_imqges/hero1.jpeg",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/home_imqges/hero2.jpeg "
+      ],
+      "title":"Design Your Comfort Zone",
+      "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti iure quasi odit tenetur unde officiis repudiandae quod deserunt quia eum? Lorem ipsum dolor sit amet consectetur"
+   },
+   "featuredProducts":[
+      {
+         "id":1,
+         "title":"Entertainment Center",
+         "price":599.99,
+         "image":"https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Accent%20Chair.JPEG",
+         "amount":3,
+         "description":"Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic ..."
+      },
+      {
+         "id":2,
+         "title":"High-Back Bench",
+         "price":399.99,
+         "image":"https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Sectional.JPEG",
+         "amount":5,
+         "description":"Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic ..."
+      },
+      {
+         "id":3,
+         "title":"Modern Bookshelf",
+         "price":319.99,
+         "image":"https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Table.JPEG",
+         "amount":4,
+         "description":"Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic ..."
+      }
+   ],
+   "features":[
+      {
+         "icon":"SiAzuredataexplorer",
+         "name":"Mission",
+         "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi"
+      },
+      {
+         "icon":"AiOutlineAntDesign",
+         "name":"Vision",
+         "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi"
+      },
+      {
+         "icon":"MdHistoryEdu",
+         "name":"History",
+         "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi"
+      }
+   ],
+   "newsPaper":{
+      "title":"Join our newsletter and get 20% off",
+      "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veniam repudiandae vel ab id, fuga praesentium nobis natus ipsam vero?"
+   },
+   "about":{
+      "image":"https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/home_imqges/hero1.jpeg",
+      "title":"Our Story",
+      "text":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quaerat, modi doloremque necessitatibus eum dolor nesciunt delectus, voluptate blanditiis, obcaecati beatae ab aut ipsaconsequuntur tempora cumque. Ut quo enim vero odio minus nostrum eveniet, doloribus veritatis dolorem unde ipsum, voluptatibus totam. Explicabo, quas libero! Laborum incidunt minimaconsequatur ratione?"
+   }
 }
