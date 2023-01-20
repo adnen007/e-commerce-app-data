@@ -1,6 +1,6 @@
 {
   "landing": {
-    images: [
+    "images": [
       "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/home_imqges/hero1.jpeg",
       "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/home_imqges/hero2.jpeg ",
     ],
