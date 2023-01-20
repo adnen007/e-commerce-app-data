@@ -4,7 +4,7 @@
     "name": "accent chair",
     "price": 25999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/31YiaWHFH2ztD_CnCv26Yg/cYCBWyxEy6H_jkqWx3I2VQcPpKLtbksBbH-XCPtOSV3mphkORkNHPgDh7qoD6TELAD22BWc7taqiNVMN-hLbpg/pes_FVRwesW61aa6XkIS0KhNJDO2PGymwEB7NSvC4Iw",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Accent%20Chair.JPEG",
     "colors": ["#ff0000", "#00ff00", "#0000ff"],
     "company": "marcos",
     "description":
@@ -17,7 +17,7 @@
     "name": "albany sectional",
     "price": 109999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/VSl36Rznzz45xg-asnbcbw/7KSOWCBcng6VQgMXPtc25W36H3g_bRis5XaV1jwVfJto7_Y-dgY-IRUFyRg0azi4sAE9suAAYYE_Sv85r_rPpg/zo9Vo79OnIS7PL3HGkplNeWisMjeaS7OlyNm38D5xxw",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Sectional.JPEG",
     "colors": ["#000", "#ffb900"],
     "company": "liddy",
     "description":
@@ -29,7 +29,7 @@
     "name": "albany table",
     "price": 309999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/ULg8yWRwzCGYPp8VIUOt5Q/iGbMpryft6L6xc9PYopxQK6Sl5KnSP-aAk6xBuU_gFerGA269k20gdgquJSb_r9E5KxYaBYNvUmK4XKxpuTnOQ/T-SrJxpda02TlJtrSAg7IDaecVYZ-VZDyTkCUJ_I4w8",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Table.JPEG",
     "colors": ["#ffb900", "#0000ff"],
     "company": "liddy",
     "description":
@@ -41,7 +41,7 @@
     "name": "armchair",
     "price": 12599,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/Q_8AGnmnJxogLV43xfUang/LnmNo3f8LweT2B2D14GSsjZa75KBt9-2kMhiOq2btxG12fK3ujFt4Diu18CLc2rLjfXwL47gfO-z-N96PlWwVA/l0tTbk3O0B7zVBtOAj_524rDSVvEbpafUxR6vFaEfO4",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Armchair.JPEG",
     "colors": ["#000", "#00ff00", "#0000ff"],
     "company": "marcos",
     "description":
@@ -54,7 +54,7 @@
     "name": "bar stool",
     "price": 4099,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/5v4V9jFjZZQcbzbfSBCZgg/y79z1znk9MuoskZBUGKm-viE86nAWPGbQvdEQNEodYCQ83gqPJlY7ajDzSOxe2bIHGbYY3voOWOdWG97U-OO2Q/xSW85Ca2KMrQuCrJYvLYh092G1Z-EF3r_Pp0KX8JOV0",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Bar Stool.JPEG",
     "colors": ["#000"],
     "company": "liddy",
     "description":
@@ -67,7 +67,7 @@
     "name": "dining table",
     "price": 42999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/fictzg3M0CGJCEGc_3-Wew/CBjnBjJdpWiMdUHRJ8hlioC_y6Om7ASPeDN8LWlQ0VbfI6tid1dOMPRWOUsdVVXhFYdYKAH2aBj8hfxfX4MH-w/C0qYqJAqckpvdY6119yZT4ZjJwJqMvoFKld8whRP3pc",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Dining Table.JPEG",
     "colors": ["#00ff00", "#0000ff", "#ff0000"],
     "company": "ikea",
     "description":
@@ -80,7 +80,7 @@
     "name": "emperor bed",
     "price": 23999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/3GDjKL5ziiyA8SQSw2vnhw/pVqQHV3AutpHlShdsbSCsF4VDgLQrh6NnlRaj8spFM29U8fyreH5TjQ-H5qNfP_BlXIBKyuuJeXYBrh4Bi8Fxw/hm2hV-HReflRveLtLFbRZtinZeRjc74i8K6HHGfcCAA",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Emperor Bed.JPEG",
     "colors": ["#0000ff", "#000"],
     "company": "ikea",
     "description":
@@ -93,7 +93,7 @@
     "name": "entertainment center",
     "price": 59999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/Tf5INTq5zgPFf2D4WhvWEQ/sbAtLvhQbqD06bkFjL3aJmOLY7ehRPoQq5gs2xuC2D58nw6PUlwnRUwzv8wbVVYEh4EAoWuPc_UFAewgIWMxBw/RXbWLrcjGVp7864c3MALO2l-Ztz4tS5e_dU4Z7m7kUM",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Entertainment Center.JPEG",
     "featured": true,
     "colors": ["#000", "#ff0000"],
     "company": "caressa",
@@ -107,7 +107,7 @@
     "name": "high-back bench",
     "price": 39999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/qpl3HiUIcpxvNEzERx_Uyw/N_9cxbbIMHjQqmOBpCiSd-mSIlnDEfspYDk8rP-BgsOIDdMb1BaZqAgk8p-4z2T8BGUXvbcKvJ3fdiwdOyoldw/bETziK7Eu2CWyanKMoxmcfqPTzwEQB1QcajROdHwBy0",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/High-Back Bench.JPEG",
     "featured": true,
     "colors": ["#000", "#00ff00"],
     "company": "ikea",
@@ -121,7 +121,7 @@
     "name": "leather chair",
     "price": 20099,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/WdiKLGDZEugTkAiue_VXZA/HwK2msQEZ7PGDsoJrrJ77JXT9Q2exL5mmROSdqQb9Cw2Dc2j6xzqPQRlucJmTYSbZOAFGkxnEpkT-oiPqj6oAA/vwOEtG6gregMEP25ugdKGHw22Q3eHPq00KluQWx6hEw",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Leather Chair.JPEG",
     "colors": ["#ff0000", "#ffb900", "#00ff00"],
     "company": "caressa",
     "description":
@@ -133,7 +133,7 @@
     "name": "leather sofa",
     "price": 99999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/XOKFwmH3r60_j90Ggs5gXA/IDeHGJ7zDroXsbGSMcEi-4bA1VfWijsj9oFzuLTa2Uk_g2TsITkVIs3n-dc216qciUMVEN9-8JJh2lewU6xRhQ/I_jhMfCcbTGfic7FJGnWDOre5mddLb6D1nyoCw-4o4Y",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Leather Sofa.JPEG",
     "colors": ["#00ff00", "#0000ff"],
     "company": "caressa",
     "description":
@@ -145,7 +145,7 @@
     "name": "modern bookshelf",
     "price": 31999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/PVtLG0BIDOWHQ_0a8xfRsw/WWHiXtGgLSAULwRZJELb3tm0Tb90Dr1a_4TjJSI0GTe-eVQVR5DDo-wJrpsoxSoSGxSRlsOBqhLiZwUC8YkW1A/2vkNXisv6FXPagZaMgrc5e_8fH0haLSeumIrp7zWk_E",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Modern Bookshelf.JPEG",
     "featured": true,
     "colors": ["#ffb900", "#ff0000", "#00ff00"],
     "company": "caressa",
@@ -158,7 +158,7 @@
     "name": "modern poster",
     "price": 3099,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/05N-NoRPI8ffvQyj6gbxYQ/1lhkPSssJ2eyMJ9CdtQSDA5kWix6KB3ZINGRLLY3pW5ko7VXCwaRWV8Vz_bNZSsFbMb7d0EztADToEraWM9A1w/dTVv_dWkUY3f9LTQvbZj9em0kHLNfbo5K-OOce5XGUE",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Modern Poster.JPEG",
     "colors": ["#000"],
     "company": "liddy",
     "description":
@@ -171,7 +171,7 @@
     "name": "shelf",
     "price": 30999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/g1l_mqS0LhfBDZ3G4OkyIg/WBxj5J4zcXGQ7l--xvQb9hf0GGC2ywJSba-l6o_mvEecpUEZAYgaDePyZZFSnuaWKcHceOQLHla6xGr5CNxgpA/Dxfwgmn69vJpJ9wVCgR2wcOvLRUI9eD4oYUNQjcVa8g",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Shelf.JPEG",
     "colors": ["#00ff00"],
     "company": "ikea",
     "description":
@@ -183,7 +183,7 @@
     "name": "simple chair",
     "price": 109999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/GFoWkNJr-xZdqjBYAl1xxg/UiL6V6b3U4r0Do-9PNUVqeF4RYoDlNlCsVzcsfUUT2taQgCGWxwQqCr6lyO0Aqg5NGXpvkbXnwIdwlzZALLZIA/f4CRFYgVG13vISAW4pKQ5cb7Q53wmd0eWi9HHEFFVvM",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Simple Chair.JPEG",
     "colors": ["#0000ff"],
     "company": "liddy",
     "description":
@@ -196,7 +196,7 @@
     "name": "sofa set",
     "price": 129999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/B6p-jn9qVc4L3w8ksVp3hw/nlSQCQNWTdVOTEbjNd-BmMHlzzyeXbqtOW2ZUNeE4NuEWolXj4M30kfPdqVoMAsGoNxjANU_OxaqEfnRk2-YCg/hk3RDmS0PV2XkHJqecVg4DwizgjVCOiaXxNaKbcl8Uo",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Sofa Set.JPEG",
     "colors": ["#00ff00", "#ffb900"],
     "company": "marcos",
     "description":
@@ -209,7 +209,7 @@
     "name": "suede armchair",
     "price": 15999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/q-CSyCz5J_Fy_HCfg9Dj9g/yHfI4zQsV2KTlB0Px444z7RJxPFC33sQ2Z4QdzVNnRyHSKxZI97goXBey7VDIHu7hK_duF7ifWwkrIb6NUGNww/4wLK2xDSGmEL0K_US18fjuOEMzJU9GhSw1D8Ztm6dv0",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Suede Armchair.JPEG",
     "colors": ["#ffb900"],
     "company": "caressa",
     "description":
@@ -221,7 +221,7 @@
     "name": "utopia sofa",
     "price": 79999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/-9C2LDw7FY9fOB-URhwOPA/kTgPKKSrxYuAgmhOEngU8CAm1eL4HWLcYayqVI1tsaCSwHE-M60J1cG28FeRZTxfTMQFOoe6RZuGaBVes2TOBA/YwPRBX8NjZrqe2eHYMffwPzgjgQtjL8tQgju7qwEqPo",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Utopia Sofa.JPEG",
     "featured": true,
     "colors": ["#ff0000", "#00ff00"],
     "company": "liddy",
@@ -234,7 +234,7 @@
     "name": "vase table",
     "price": 120999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/Ks1VzFLkAR9k3TN2oSuIkQ/fjD2UYz2GY7yjlTjxWwI4hVkNgSQeXOjn95xKMoBOrI8IwQ5Zj9QFyq7BlcOtD7lhhjSM5NgQqQ2Iszu1QxMEw/C8zm528geOMivtP1q8UnxkTRbBogNFVnFy8EW-VjUkA",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Vase Table.JPEG",
     "featured": true,
     "colors": ["#ff0000"],
     "company": "marcos",
@@ -247,7 +247,7 @@
     "name": "wooden bed",
     "price": 250099,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/l8hrZ1mX0_94hlH1y6KRMQ/MckrpHpaA80moswR6oYtAurcc31AR0DGSTuYp3MlvcSf1NpCONX9lyJOLtdXERsxFXLOCJzpNX_C-ae-HDv7qw/1uw1rJnfMoxvR-3xSZtEnPf_teqZBDUfwhwAaVDff9o",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Wooden Bed.JPEG",
     "colors": ["#000", "#ffb900"],
     "company": "ikea",
     "description":
@@ -259,7 +259,7 @@
     "name": "wooden desk",
     "price": 150999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/6UvYDwpB87DLfmbJNFI_kg/2bGE6dQ0Is86hfBpiUhKfkDtmPK-dodG3IDFRn9qZL-tZqC63xE8Rs754KGrcfF-xXEYueQImKGKgXgMCImfFA/nuZCQ8nd1AXC5pY8mecaAWhSJInSjuEshXezzL92qAk",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Wooden Desk.JPEG",
     "colors": ["#000"],
     "company": "ikea",
     "description":
@@ -272,7 +272,7 @@
     "name": "wooden desk",
     "price": 40099,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/9tvr77PERMMAYa1q18y9Ig/HiLJchyrscfxQAEniGra9HUEPBaObTiidi2pO8qYxq0n7w8TumDUh41rBYk3J25ojELNXd-Z09cPSN5WSqYNWA/hwkxdNv5pC3fz43RLbIt9pz45YiM7hoz_hlEZMa5--k",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Wooden Table.JPEG",
     "colors": ["#0000ff", "#00ff00"],
     "company": "ikea",
     "description":
@@ -284,7 +284,7 @@
     "name": "wooden table",
     "price": 234999,
     "image":
-      "https://v5.airtableusercontent.com/v1/14/14/1674158400000/birAuHXUVWrN2cNfaUXlUQ/7kJygHgTCR8IXAAKdoWzuNOHM_H6uyTvOMcm_hsY7EXEtNmp_5_X48TV3CN5nHy3pysbICRgfL6l_ax5tufprw/Dxy88jN619_rDQrnKVrl2ncBCFBrzU5Kon8-89IfL9o",
+      "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Simple Wooden Desk.JPEG",
     "featured": true,
     "colors": ["#ffb900", "#ff0000"],
     "company": "caressa",
