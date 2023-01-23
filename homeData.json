@@ -8,30 +8,74 @@
       "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti iure quasi odit tenetur unde officiis repudiandae quod deserunt quia eum? Lorem ipsum dolor sit amet consectetur"
    },
    "featuredProducts":[
-      {
-         "id":1,
-         "title":"Entertainment Center",
-         "price":599.99,
-         "image":"https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Accent%20Chair.JPEG",
-         "amount":3,
-         "description":"Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic ..."
-      },
-      {
-         "id":2,
-         "title":"High-Back Bench",
-         "price":399.99,
-         "image":"https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Sectional.JPEG",
-         "amount":5,
-         "description":"Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic ..."
-      },
-      {
-         "id":3,
-         "title":"Modern Bookshelf",
-         "price":319.99,
-         "image":"https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Table.JPEG",
-         "amount":4,
-         "description":"Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic ..."
-      }
+     {
+      "id":"recZkNf2kwmdBcqd0",
+      "name":"accent chair",
+      "price":25999,
+      "images":[
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Accent%20Chair.JPEG",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Sectional.JPEG",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Table.JPEG",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Armchair.JPEG",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Bar Stool.JPEG"
+      ],
+      "colors":[
+         "#ff0000",
+         "#00ff00",
+         "#0000ff"
+      ],
+      "company":"marcos",
+      "description":"Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category":"office",
+      "shipping":true,
+      "stock":0,
+      "reviews":60,
+      "stars":3.5
+   },
+   {
+      "id":"recEHmzvupvT8ZONH",
+      "name":"albany sectional",
+      "price":109999,
+      "images":[
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Sectional.JPEG",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Table.JPEG",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Table.JPEG",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Armchair.JPEG",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Bar Stool.JPEG"
+      ],
+      "colors":[
+         "#000",
+         "#ffb900"
+      ],
+      "company":"liddy",
+      "description":"Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category":"living room",
+      "stock":0,
+      "reviews":60,
+      "stars":3.5
+   },
+   {
+      "id":"rec5NBwZ5zCD9nfF0",
+      "name":"albany table",
+      "price":309999,
+      "images":[
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Table.JPEG",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Sectional.JPEG",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Albany Table.JPEG",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Armchair.JPEG",
+         "https://raw.githubusercontent.com/adnen007/e-commerce-app-data/main/product_images/Bar Stool.JPEG"
+      ],
+      "colors":[
+         "#ffb900",
+         "#0000ff"
+      ],
+      "company":"liddy",
+      "description":"Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category":"kitchen",
+      "stock":0,
+      "reviews":60,
+      "stars":3.5
+   },
    ],
    "features":[
       {
