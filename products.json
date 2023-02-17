@@ -43,7 +43,7 @@
       "category":"living room",
       "stock":10,
       "reviews":60,
-      "stars":3.5
+      "stars":3.6
    },
    {
       "id":"rec5NBwZ5zCD9nfF0",
@@ -65,7 +65,7 @@
       "category":"kitchen",
       "stock":11,
       "reviews":60,
-      "stars":3.5
+      "stars":4.2
    },
    {
       "id":"recd1jIVIEChmiwhe",
@@ -89,7 +89,7 @@
       "shipping":true,
       "stock":15,
       "reviews":60,
-      "stars":3.5
+      "stars":4.6
    },
    {
       "id":"recoM2MyHJGHLVi5l",
@@ -135,7 +135,7 @@
       "shipping":true,
       "stock":8,
       "reviews":60,
-      "stars":3.5
+      "stars":5
    },
    {
       "id":"rec1Ntk7siEEW9ha1",
@@ -182,7 +182,7 @@
       "shipping":true,
       "stock":15,
       "reviews":60,
-      "stars":3.5
+      "stars":2
    },
    {
       "id":"recrfxv3EwpvJwvjq",
@@ -229,7 +229,7 @@
       "category":"bedroom",
       "stock":60,
       "reviews":60,
-      "stars":3.5
+      "stars":2.6
    },
    {
       "id":"recEOA6qtDag1hRbU",
@@ -297,7 +297,7 @@
       "shipping":true,
       "stock":0,
       "reviews":60,
-      "stars":3.5
+      "stars":1.6
    },
    {
       "id":"rec7CjDWKRgNQtrKe",
@@ -340,7 +340,7 @@
       "shipping":true,
       "stock":14,
       "reviews":60,
-      "stars":3.5
+      "stars":1.2
    },
    {
       "id":"recs5BSVU3qQrOj4E",
